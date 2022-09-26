@@ -7,10 +7,7 @@ console.log("Good!");
 }
 
 function handleBlur(e){
-console.log(
-
-    
-);
+console.log("Hey! Eyes on me!");
 }
 
 function EyesOnMe() {
